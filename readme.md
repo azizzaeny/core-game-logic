@@ -1,6 +1,6 @@
-This is a parts of [core-of-things](https://github.com/azizzaeny/core-of-things)
-Core of things is an idea to understand, share, preserve and learn real-world domain logic..  
+This is a parts of [core-of-things](https://github.com/azizzaeny/core-of-things)  
 
+Core of things is an idea to understand, share, preserve and learn real-world domain logic..  
 
 A Collection of game logic written in clojure  
 
@@ -10,3 +10,4 @@ A Collection of game logic written in clojure
 - rock-paper-sicors
 - sudoku
 - game-of-life
+- hangman
